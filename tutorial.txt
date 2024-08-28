@@ -9,7 +9,7 @@ CREATE REPO IN GITHUB
 	- git push -u origin main
 	- git status
 
-if ada problem guna cara ni
+if ada problem guna 
 
 - echo "# my repo "> <file name>
 - git add <file name>
