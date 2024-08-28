@@ -1,0 +1,25 @@
+CREATE REPO IN GITHUB
+
+1. + new in GitHub acc
+2. setup remote
+	- git remote -v
+	- git remote add origin https://github.com/syazwanee/playlist.git
+	- git remote -v
+3. push code 
+	- git push -u origin main
+	- git status
+
+if ada problem guna cara ni
+
+- echo "# my repo "> <file name>
+- git add <file name>
+- git commit -m "initial commit"
+- git push -u origin main
+
+4. have any changes in a file 
+	- git push -u origin main
+	- git status
+
+5. if somebody else make changes
+	- setting
+	- collaborators > add collaborators
